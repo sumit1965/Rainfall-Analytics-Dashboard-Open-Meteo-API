@@ -52,4 +52,4 @@ An interactive Excel dashboard that fetches live weather data from an API and tr
 
 ## Author
 
-Sumit
+Sumit Suryavanshi
